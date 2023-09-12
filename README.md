@@ -16,10 +16,6 @@ Consideren esto como un apoyo para el estudio, no como una solución a sus probl
     <dt>Markdown</dt>
     <dd>Tambien es un lenguaje de tipado ligero basado en las convenciones de formato que la gente usa naturalmente en el correo electrónico.</dd>
 </dl>
-MD es un gran <u>lenguaje</u> de programación
-
-Markdown
-:  Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.
 
 >[!NOTE]
 >
