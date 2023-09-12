@@ -19,7 +19,7 @@ agradecan a [MD](#abreviaciones)
 
 Consideren esto como un apoyo para el estudio, no como una solución a sus problemas, ya que no es la idea, si no que es para que puedan entender mejor el [tema.](#idea)
 
->[!NOTE]
+>[!NOTA]
 >
 > - No se aceptan pull request.
 > - No se aceptan issues.
