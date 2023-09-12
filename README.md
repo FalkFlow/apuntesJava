@@ -14,7 +14,8 @@ Consideren esto como un apoyo para el estudio, no como una solución a sus probl
 >
 > - No se aceptan pull request.
 > - No se aceptan issues.
->>[!WARNING]
->>
->> - No se aceptan pull request.
+
+>[!WARNING]
+>
+> - No se aceptan pull request.
 [^1]: Material de estudio: Apuntes, ejercicios, etc.
