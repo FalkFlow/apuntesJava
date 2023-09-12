@@ -3,3 +3,9 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignorar todos los png
+.png
+
+#ignorar todos los jpg
+.jpg
