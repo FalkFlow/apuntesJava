@@ -8,8 +8,7 @@ La idea de este repositorio es guardar un poco el material estudio[^1] y que lo 
 
 ## Clase 1
 Clases
-: Cosas no vistas en clases no vean el ava es un poco distinto
-: Si quieren traten de comparar
+: Cosas no vistas en clases no vean el ava es un poco distinto. Si quieren traten de comparar
 
 agradecan a [MD]
 
