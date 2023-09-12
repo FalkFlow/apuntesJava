@@ -8,9 +8,6 @@ La idea de este repositorio es guardar un poco el material estudio[^1] y que lo 
 Clases
 : Cosas no vistas en clases no vean el ava es un poco distinto. Si quieren traten de comparar
 
-agradecan a MD
-
-
 ## reglas
 
 Consideren esto como un apoyo para el estudio, no como una solución a sus problemas, ya que no es la idea, si no que es para que puedan entender mejor el [tema.](#idea)
@@ -24,5 +21,3 @@ Consideren esto como un apoyo para el estudio, no como una solución a sus probl
 >
 > - No se aceptan pull request.
 [^1]: Material de estudio: Apuntes, ejercicios, etc.
-
-*[MD]: Markdown
